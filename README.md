@@ -15,8 +15,9 @@ Then install the necessary manim package via:
 
 To try out the existing animations with the interactive openGL renderer use the following command in your terminal:
 
-    manim -p FILE.py SCENE --renderer-opengl
+    manim -p FILE.py SCENE --renderer=opengl
 
 -p signifies that the animation is set to start immediatley. 
+
 
 
